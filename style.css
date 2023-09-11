@@ -332,7 +332,8 @@ h1 {
 
 .lineeffect {
   position: relative;
-  height: fit-content;
+  height: fit-content;  
+  transform-origin: left;
 }
 
 .lineeffect::after {

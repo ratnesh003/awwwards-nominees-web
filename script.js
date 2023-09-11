@@ -76,7 +76,7 @@ document.querySelectorAll(".elem").forEach(function(elem){
 
         gsap.to(elem.querySelector("img") , {
             opacity: 1,
-            ease: Expo.Power2,
+            ease: Power2,
             top: hty,
             left: delta.clientX,
             rotate: gsap.utils.clamp(-20,20,rotatediff*0.5)
