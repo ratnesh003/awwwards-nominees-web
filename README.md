@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Awwwards-nominees-web
 
 
@@ -61,3 +62,11 @@ I Learned buiding this website from _**Sheriyans Coding School**_ YouTube Channe
 
 
 #### Thank You for reading !!! 😊
+=======
+# awwwards-nominees-web
+The website based on smooth scroll and GSAP it is the nominee website on Awwwards.com 
+This website is originally a designers portfoilo web page which I have Tried to copy as test of my frontend coding skills
+
+## GSAP 
+GSAP aka Green Socks Animation Platform I have used this JS library to show some basic animation on site 
+>>>>>>> 4661bd6ee90296cdb6fddc3d4c230d30c9d1e357
